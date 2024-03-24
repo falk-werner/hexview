@@ -1,3 +1,5 @@
+[![Build](https://github.com/falk-werner/hexview/actions/workflows/build.yml/badge.svg)](https://github.com/falk-werner/hexview/actions/workflows/build.yml)
+
 # hexview
 
 A simple hex viewer based on [ncurses](https://invisible-island.net/ncurses/) and [mmap](https://man7.org/linux/man-pages/man2/mmap.2.html).
